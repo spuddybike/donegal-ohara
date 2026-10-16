@@ -6,7 +6,7 @@ The file has been constructed by transcribing records from Donegal Grand Jury Pr
 
 ### Annotation
 
-- **Position**: This is a broad description of the Grand Juror's Position (Land Owner / Freehold)
+- **Category**: This is a broad description of the Grand Juror's as either Land Owner / Freehold.
 - **Relationship**: Captures the Relationship between jurors - Currently this is familial, it could be further elaborated by political affiliation as described by Emma Wright, see below.
 - **Born**: Year of Birth
 - **Died**: Year of Death
