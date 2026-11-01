@@ -6,8 +6,8 @@ ID,Surname,FIrst,Title,Category,Acreage,Issues,Relationship,To ID,Born,Died,Note
 133,Bale,James,Esq,Freeholder,,,,,,,,
 92,Ball,Samuel,Esq,Freeholder,,,,,,,,
 69,Basil,Gabriel,Esq,Freeholder,,,,,,,,
-58,Bateson,Thomas,Esq,Land Owner,,,Father,112,1705,1791,,
-112,Bateson,Richard,Esq,Land Owner,,,Son,58,1755,1783,,
+58,Bateson,Thomas,Esq,Land Owner,,,Son,112,1736,1789,,
+112,Bateson,Richard,Esq,Land Owner,,,Father,58,1715,1766,,
 131,Bowan,John,Esq,Freeholder,,,,,,,,
 94,Boyd,William,Esq,Freeholder,,,,,,,,
 17,Boyd,John,Esq,Land Owner,,,,,1739,,Of Ballymacool House,https://en.wikipedia.org/wiki/Ballymacool_Park
